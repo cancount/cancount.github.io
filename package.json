@@ -1,5 +1,5 @@
 {
-  "name": "can-counter",
+  "name": "candemonium",
   "description": "Counting cans",
   "version": "1.0.0",
   "author": "Dale Palmer <dpalmerpdx@gmail.com>",
@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build gh-pages -d public"
   },
   "devDependencies": {
     "gh-pages": "^1.2.0",
@@ -26,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dalepalmer/can_counter"
+    "url": "https://github.com/cancount/cancount.github.io"
   }
 }
