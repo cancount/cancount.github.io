@@ -5,15 +5,13 @@
   "author": "Dale Palmer <dpalmerpdx@gmail.com>",
   "dependencies": {
     "chart.js": "^2.7.2",
-    "friendly-errors-webpack-plugin": "^1.7.0",
     "gatsby": "^1.9.277",
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-favicon": "^2.1.1",
     "gatsby-plugin-react-helmet": "^2.0.11",
     "materialize-css": "^0.100.2",
     "react-chartjs-2": "^2.7.4",
-    "react-helmet": "^5.2.0",
-    "webpack": "^4.0.0"
+    "react-helmet": "^5.2.0"
   },
   "keywords": [
     "gatsby"
