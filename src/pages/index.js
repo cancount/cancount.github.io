@@ -53,7 +53,7 @@ const chartData = {
     datasets: [
 
     {
-      data: [24.40, 24.60, 49.00 151.00],
+      data: [24.40, 24.60, 49.00, 151.00],
       backgroundColor: ["#0ad1bf", "#ff7e22", "green", "#b0bec5"],
      
     }
