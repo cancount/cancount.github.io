@@ -53,7 +53,7 @@ const chartData = {
     datasets: [
 
     {
-      data: [24.40, 24.60, 49.00, 151.00],
+      data: [114.40, 185.60, 300.00, 50.00],
       backgroundColor: ["#0ad1bf", "#ff7e22", "green", "#b0bec5"],
      
     }
@@ -62,7 +62,7 @@ const chartData = {
 const IndexPage = () => (
   <div>
     <p>Welcome to our can collection counter.</p>
-    <p>A group of friends and I are collecting cans for whimsical things to make our lives more vibrant. Here I will document out process</p>
+    <p>A group of friends and I are collecting cans for whimsical things to make our lives more vibrant. Here I will document our process:</p>
     <div>
 
     </div>
